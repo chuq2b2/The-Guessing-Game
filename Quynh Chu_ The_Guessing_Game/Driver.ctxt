@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Driver
+comment1.params=
+comment1.target=void\ playWithVeryGoodTree()
+comment2.params=numPersonas
+comment2.target=void\ playWithHardcodedTree(int)
+comment3.params=numImages
+comment3.target=InputArea\ setUpGUI(int)
+comment4.params=inputArea\ numImages
+comment4.target=void\ playWithHardcodedTree(InputArea,\ int)
+comment5.params=factory\ numPersonas
+comment5.target=DTreeNode\ makeTree(HardcodedDTreeFactory,\ int)
+comment6.params=inputArea
+comment6.target=void\ playWithVeryGoodTree(InputArea)
+numComments=7

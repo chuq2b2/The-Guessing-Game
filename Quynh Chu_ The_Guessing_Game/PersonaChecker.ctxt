@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PersonaChecker
+comment0.text=\r\n\ @author\ Steven\ Bogaerts\ (starter\ code)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Given\ code\r\n
+comment2.params=p
+comment2.target=void\ printAllTests(Persona)
+comment3.params=p
+comment3.target=boolean\ hasBelt(Persona)
+comment4.params=p
+comment4.target=boolean\ hasClothesAndArmUp(Persona)
+comment5.params=p
+comment5.target=boolean\ hasArmUpAndNoTie(Persona)
+comment6.params=p
+comment6.target=boolean\ hasTieOrBeltButNotBoth(Persona)
+numComments=7

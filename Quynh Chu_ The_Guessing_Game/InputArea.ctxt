@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InputArea
+comment1.params=height
+comment1.target=InputArea(int)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=node
+comment3.target=void\ update(DTreeNode)
+numComments=4

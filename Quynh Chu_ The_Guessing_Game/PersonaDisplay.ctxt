@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PersonaDisplay
+comment1.params=panelDim\ numImages
+comment1.target=PersonaDisplay(int,\ int)
+comment1.text=\r\n\ Sets\ up\ the\ imagePanel\ and\ adds\ images\ to\ it.\r\n\ panelDim\ is\ the\ length\ and\ width.\r\n
+comment2.params=id\ imageDim
+comment2.target=javax.swing.JLabel\ getImageLabel(int,\ int)
+comment2.text=\r\n\ Fetches\ the\ image\ and\ handles\ resizing\ based\ on\ imageDim.\r\n\ Assumes\ the\ image\ is\ basically\ a\ square.\r\n
+comment3.params=row\ col
+comment3.target=void\ hideImage(int,\ int)
+numComments=4

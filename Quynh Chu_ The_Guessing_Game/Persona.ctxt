@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Persona
+comment1.params=id\ name\ hasTie\ isArmUp\ hasClothes\ isEating\ hasHorn\ hasBelt\ walks\ isAnimal
+comment1.target=Persona(int,\ java.lang.String,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean)
+comment10.params=
+comment10.target=boolean\ getWalks()
+comment11.params=
+comment11.target=boolean\ getIsAnimal()
+comment12.params=attr
+comment12.target=boolean\ getValue(java.lang.String)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=boolean\ getHasTie()
+comment5.params=
+comment5.target=boolean\ getIsArmUp()
+comment6.params=
+comment6.target=boolean\ getHasClothes()
+comment7.params=
+comment7.target=boolean\ getIsEating()
+comment8.params=
+comment8.target=boolean\ getHasHorn()
+comment9.params=
+comment9.target=boolean\ getHasBelt()
+numComments=13

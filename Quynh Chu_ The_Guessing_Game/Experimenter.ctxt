@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Experimenter
+comment0.text=\r\n\ @author\ Steven\ Bogaerts\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Experimenter()
+comment3.params=seed\ printTree
+comment3.target=double\ examineRandomTree(int,\ boolean)
+comment4.params=
+comment4.target=void\ examineManyRandomTrees()
+comment5.params=printTree
+comment5.target=double\ examineVeryGoodTree(boolean)
+numComments=6
